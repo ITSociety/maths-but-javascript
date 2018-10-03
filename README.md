@@ -1,1 +1,1 @@
-# maths-but-javascript
+# Maths but with Javascript
