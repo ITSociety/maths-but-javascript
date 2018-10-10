@@ -1,5 +1,5 @@
 # Maths but with Javascript
-There is no point to this at all, except to have a little fun. If you would like to contribute please open a pull request. 
+This is a very experimental project, there is no point to this at all, except to have a little fun. If you would like to contribute please open a pull request. 
 
 ### Sets
 A set is a collection of distinct objects, considered as an object in its own right. For example, the number 1, 2 and 3 are but together they form an set of size three, written `{1,2,3}`
