@@ -8,13 +8,16 @@
   "scripts": {
     "test": "jest"
   },
+  "engines": {
+    "node": ">=8.9.0"
+  },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-jest": "^23.6.0",
     "jest": "^23.6.0",
-    "regenerator-runtime": "^0.12.1"
+    "regenerator-runtime": "^0.12.1",
+    "babel-preset-env": "^1.7.0"
   },
   "dependencies": {
-    "babel-preset-env": "^1.7.0"
   }
 }
