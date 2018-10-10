@@ -1,0 +1,20 @@
+{
+  "name": "maths-but-javascript",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/ITSociety/maths-but-javascript",
+  "author": "Samuel Stenton <sthstenton@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "jest": "^23.6.0",
+    "regenerator-runtime": "^0.12.1"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
+}
